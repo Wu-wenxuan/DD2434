@@ -1,4 +1,4 @@
 # DD2434
-## PCA
-## MDS
-## Isomap
+## 1.PCA
+## 2.MDS 
+## 3.Isomap  
