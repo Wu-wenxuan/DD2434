@@ -1,4 +1,4 @@
-# DD2434
+# DD2434 Assignment_1
 ## 1.PCA 
 ### Run PCA.py
 ## 2.MDS  
