@@ -1,4 +1,8 @@
 # DD2434
-## 1.PCA
-## 2.MDS 
+## 1.PCA 
+### Run PCA.py 
+## 2.MDS  
+### Run MDS.py
 ## 3.Isomap  
+### Run isomap.py, you can adjust parameter p in Isomap(D,p,k) function and get different plot.
+### You can also annotate the feature_weights function and check the differences.
